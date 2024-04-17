@@ -1,0 +1,14 @@
+C:\Users\Juanc\.c#\HerancaDio\bin\Debug\net8.0\HerancaDio.exe
+C:\Users\Juanc\.c#\HerancaDio\bin\Debug\net8.0\HerancaDio.deps.json
+C:\Users\Juanc\.c#\HerancaDio\bin\Debug\net8.0\HerancaDio.runtimeconfig.json
+C:\Users\Juanc\.c#\HerancaDio\bin\Debug\net8.0\HerancaDio.dll
+C:\Users\Juanc\.c#\HerancaDio\bin\Debug\net8.0\HerancaDio.pdb
+C:\Users\Juanc\.c#\HerancaDio\obj\Debug\net8.0\HerancaDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanc\.c#\HerancaDio\obj\Debug\net8.0\HerancaDio.AssemblyInfoInputs.cache
+C:\Users\Juanc\.c#\HerancaDio\obj\Debug\net8.0\HerancaDio.AssemblyInfo.cs
+C:\Users\Juanc\.c#\HerancaDio\obj\Debug\net8.0\HerancaDio.csproj.CoreCompileInputs.cache
+C:\Users\Juanc\.c#\HerancaDio\obj\Debug\net8.0\HerancaDio.dll
+C:\Users\Juanc\.c#\HerancaDio\obj\Debug\net8.0\refint\HerancaDio.dll
+C:\Users\Juanc\.c#\HerancaDio\obj\Debug\net8.0\HerancaDio.pdb
+C:\Users\Juanc\.c#\HerancaDio\obj\Debug\net8.0\HerancaDio.genruntimeconfig.cache
+C:\Users\Juanc\.c#\HerancaDio\obj\Debug\net8.0\ref\HerancaDio.dll
